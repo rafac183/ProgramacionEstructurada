@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644694421 source:c:\users\rafae\cursos\programacionestructurada\loops\main.c
+	<stdio.h>
+	<stdlib.h>
+

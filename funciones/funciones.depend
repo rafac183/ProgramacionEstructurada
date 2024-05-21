@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645389855 source:c:\users\rafae\cursos\programacionestructurada\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+

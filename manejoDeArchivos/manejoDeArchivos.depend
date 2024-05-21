@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645565287 source:c:\users\rafae\cursos\programacionestructurada\manejodearchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
